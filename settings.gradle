@@ -1,0 +1,3 @@
+rootProject.name = 'M_6.2_Zadanie_pierwszy_test_jednostkowy'
+include 'com.testing'
+
